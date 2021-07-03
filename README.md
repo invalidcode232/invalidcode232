@@ -1,6 +1,6 @@
 # About me
 
-Hello!
+Hello! I am an amateur programmer and I am currently trying to learn Javascript, Lua, C++, and frontend development.
 
 <details>
   <summary><b>Github statistics</b></summary>
