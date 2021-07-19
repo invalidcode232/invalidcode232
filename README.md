@@ -1,11 +1,5 @@
 # About me
 
-Hello! I am an amateur programmer and I am currently trying to learn Javascript, Lua, C++, and frontend development.
-
-### Contacts
-
-**Discord**: invalidcode#1337 (670535096301912071)
-
 <details>
   <summary><b>Github statistics</b></summary>
 
