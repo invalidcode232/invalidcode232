@@ -1,5 +1,8 @@
 # About me
 
+I code stuff sometimes.  
+Currently studying Javascript, Python, Lua, C/C++
+
 <details>
   <summary><b>Github statistics</b></summary>
 
