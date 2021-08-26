@@ -3,6 +3,19 @@
 I code stuff sometimes.  
 Currently studying Javascript, Python, Lua, C/C++
 
+### Contacts
+<a href="https://www.youtube.com/channel/UCaHMFcXFTH-Z6FIiJA9nl-w">
+  <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+<a href="https://discord.gg/asodka">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>  
+<a href="https://open.spotify.com/user/5k0zf0ckl2etgh5vg6e7c65s1?si=ff74dc3073f942cc">
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>   
+
+<br><br>
+
 <details>
   <summary><b>Github statistics</b></summary>
 
