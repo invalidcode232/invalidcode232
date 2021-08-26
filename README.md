@@ -1,5 +1,6 @@
 # About me
 
+### Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I code stuff sometimes.  
 Currently studying Javascript, Python, Lua, C/C++
 
