@@ -27,4 +27,3 @@ Currently studying Javascript, Python, Lua, C/C++
     </td>
   </tr>
 </table>
-
