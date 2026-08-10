@@ -2,7 +2,7 @@
 <p align="center">你好 / こんにちは / Bonjour / Hallo</p>
 
 <pre>
-Currently a student @ <b>Hong Kong</b>.
+Currently a student.
 In my free time, I enjoy tinkering around software.
 
 Contacts:
